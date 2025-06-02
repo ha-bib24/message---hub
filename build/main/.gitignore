@@ -1,5 +1,8 @@
 _pycache_/
 *.pyc
+*.pyo
 *.exe
+*.log
 dist/
 build/
+.env
